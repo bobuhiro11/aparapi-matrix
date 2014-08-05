@@ -1,5 +1,5 @@
 (defproject aparapi-matrix "0.1.0-SNAPSHOT"
-  :description "core.matrix implementation using aparapi which is API for GPU calculation."
+  :description "aparapi-matrix is a core.matrix implementation, and uses aparapi which is API for GPU calculation."
   :url "http://bobuhiro11.net"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
