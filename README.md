@@ -2,6 +2,8 @@
 
 `aparapi-matrix` is a core.matrix implementation, and uses aparapi which is API for GPU calculation.
 
+[![Clojars Project](http://clojars.org/aparapi-matrix/latest-version.svg)](http://clojars.org/aparapi-matrix)
+
 ## Installation
 
 1. download `Aparapi` from [https://code.google.com/p/aparapi/](https://code.google.com/p/aparapi/) and extract it.
