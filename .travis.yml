@@ -1,4 +1,5 @@
 language: clojure
+lein: lein2
 
 before_install:
   - wget https://aparapi.googlecode.com/files/Aparapi_2013_01_23_linux_x86_64.zip -O /tmp/aparapi.zip
