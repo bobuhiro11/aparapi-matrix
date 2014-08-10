@@ -6,5 +6,5 @@ before_install:
   - unzip /tmp/aparapi.zip -d /tmp/aparapi
 
 notifications:
-  emails:
+  email:
     - nob@bobuhiro11.net
